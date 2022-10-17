@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "firebase": "^9.8.1",
-    "vue": "^3.2.33",
+    "vue": "^3.2.41",
     "vue-cli-plugin-pug": "^2.0.0",
     "vue-router": "^4.0.15"
   },
